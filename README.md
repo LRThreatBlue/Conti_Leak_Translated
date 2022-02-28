@@ -3,4 +3,4 @@ This translated pdf contains the full conversation between Conti Ransomware Gang
 
 The image below is a screenshot of the original re-tweet by Dave Kenedy pointing out the find which was pulled and translated early morning 2/28/2022
 
-<img src="https://user-images.githubusercontent.com/95438621/156043359-844c9ca5-efcd-405c-b97f-34677342ee3c.png" width="500" height="600" />
+<img src="https://user-images.githubusercontent.com/95438621/156043359-844c9ca5-efcd-405c-b97f-34677342ee3c.png" width="500" height="800" />
